@@ -1,5 +1,5 @@
 {
-    "name": "scimmia go! - Copy",
+    "name": "scimmia go! - Copy - Copy",
     "version": "1.0.0",
     "description": "",
     "dependencies": {
@@ -19,7 +19,7 @@
         "test.ts"
     ],
     "targetVersions": {
-        "target": "1.12.51",
+        "target": "1.12.56",
         "targetId": "arcade"
     },
     "supportedTargets": [
